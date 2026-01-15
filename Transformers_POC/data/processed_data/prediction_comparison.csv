@@ -1,0 +1,271 @@
+,Description,Source,Rent,Traditional_Pred,Transformer_Pred
+0,Subscription 10th recurring [Trans:226791],synthetic,0,0,0
+1,Building disbursement for residential unit [Payment:IXL7],synthetic,1,1,1
+2,NOT rent - utilities [Ref:209103],synthetic,0,0,0
+3,Complex fee [TXN:970775] [03:26],synthetic,0,0,0
+4,Rent payment (apartment) #235159,synthetic,1,1,1
+5,Separate from rent - deposit [Ref:704627],synthetic,0,0,0
+6,Bi-weekly housing [Trans:471883],synthetic,0,0,1
+7,Condo fee [ID:802466],synthetic,1,1,1
+8,Strata payment [Trans:108807],synthetic,0,1,1
+9,Residential payment Every 30 days [Payment:WB3W],synthetic,1,1,1
+10,Dwelling remittance [Date:20241223],synthetic,1,1,1
+11,FANNIE MAE DIRECT DEP 250221 555093800464P22 OOOOO,real,0,0,0
+12,ZEL ZELLE FROM MARTINEZ JARON,real,0,0,0
+13,Complex charge [Trans:823290] [21:54],synthetic,0,0,0
+14,Rent payment  [Ref:391774] [10:41],synthetic,1,1,1
+15,Rent payment  [Ref:WFS5] [14:47],synthetic,1,1,1
+16,Remittance to Moore [ID:20250714-186],synthetic,0,0,0
+17,Unit letting [TXN:495316],synthetic,1,1,1
+18,Recurring 1st week [Trans:322475],synthetic,1,0,0
+19,TRAVELERS PER INSUR 240909 5951844 UNKNOWN *UNKNOWN,real,0,0,0
+20,Distinct from rent - service #708728 [02:23],synthetic,0,0,0
+21,FANNIE MAE DIRECT DEP 250404 490075914784P22 OOOOO,real,0,0,0
+22,Unit charge [ID:506014] [08:34],synthetic,0,0,0
+23,INVOICE CLOUD EPAYMENT 241009 5931820 OOOOO,real,0,0,0
+24,Dwelling disbursement plus fees [Trans:758888] [22:26],synthetic,1,1,1
+25,Rent payment  #708729 [11:35],synthetic,1,1,1
+26,Payment to Chase card ending in 3245 09/16,real,0,0,0
+27,Periodic 30th payment [Payment:A008],synthetic,0,1,1
+28,Service fee + insurance [Trans:380091],synthetic,0,0,0
+29,Building disbursement for residential unit [ID:20250317-725],synthetic,1,1,1
+30,Check #1234 for monthly [ID:20240909-503] [16:19],synthetic,0,1,1
+31,Complex charge [Date:20250113],synthetic,0,0,0
+32,Rent payment (primary residence) [Date:20240131] [06:21],synthetic,1,1,1
+33,Accommodation remittance including tax [Ref:OVSR],synthetic,1,1,1
+34,Apart from rent - maintenance [TXN:398144],synthetic,0,0,0
+35,Unit fee for residential unit [Date:20241101],synthetic,1,1,1
+36,VISA DDA PUR AP 469216     AAA INSURANCE               800 922 8228  * CA,real,0,0,0
+37,Tenancy payment [Ref:23UU],synthetic,0,0,0
+38,ZELLE FROM OOOOO ON 07/14 REF # PP0SF7ZS5M AUTO INSURANCE CREDIT,real,0,0,0
+39,Rent payment (apartment) [ID:20240322-666] [18:06],synthetic,1,1,1
+40,Pad payment #441726,synthetic,1,1,1
+41,FEDERAL NATIONAL DIRECT DEP 250418 621072664118DV3 OOOOO,real,0,0,0
+42,Unit remittance [Ref:H4WE],synthetic,0,1,0
+43,ECK AMEX EPAYMENT 0005000040  BR ACH PMT,real,0,0,0
+44,Domicile Solutions [TXN:456290],synthetic,0,0,0
+45,Residential payment 25th standing [Date:20240111],synthetic,1,1,1
+46,ZELLE TO OOOOO ON 03/13 REF #PP0YM6M5S3 TT MARYLAND,real,0,0,0
+47,First of month payment [Trans:156319],synthetic,0,0,0
+48,Lease fee for residential unit [Ref:5WW4] [03:20],synthetic,1,1,1
+49,Zelle to Davis [Ref:Z4BX] [19:51],synthetic,1,0,0
+50,Maintenence payment [Date:20250706],synthetic,0,0,0
+51,Recurring 1st week [Trans:560954],synthetic,0,0,0
+52,Online Payment 27239952735 To RCN 12/08,real,0,0,0
+53,Pad payment [Payment:0BJ9],synthetic,1,1,1
+54,Servise payment [Trans:698302],synthetic,0,0,0
+55,Letting fee [Date:20251016] [23:36],synthetic,1,1,0
+56,Online Payment 21287614175 To RCN 07/02,real,0,0,0
+57,WF Credit Card AUTO PAY 260102 OOOOO OOOOO,real,0,0,0
+58,Rent payment  [Date:20240513],synthetic,1,1,1
+59,Residential payment 25th standing [ID:430362],synthetic,1,1,1
+60,Service 5th monthly [Trans:494888] [18:59],synthetic,0,0,0
+61,Tenancy payment [Ref:JHDS],synthetic,0,0,0
+62,Unit disbursement [Ref:388602],synthetic,0,1,0
+63,CHARGE - RECURRING [TXN:626075] [07:41],synthetic,0,0,0
+64,BENEFIT PAYMENT EDI PYMNTS OOOOO OOOOO,real,0,0,0
+65,NOT rent - utilities [Date:20240404] [03:41],synthetic,0,0,0
+66,Unit letting [TXN:634707],synthetic,1,1,1
+67,End of month remittance [Date:20250419],synthetic,1,1,1
+68,Apart from rent - maintenance [Ref:632538],synthetic,0,0,0
+69,ZELLE FROM OOOOO ON 09/25 REF # COF2NJWIDU0B,real,0,0,0
+70,Real estate management fee [TXN:707175] [16:05],synthetic,1,0,0
+71,Rent payment  [ID:337209],synthetic,1,1,1
+72,WF Credit Card AUTO PAY 250701 OOOOO OOOOO,real,0,0,0
+73,Payment to Chase card ending in 3245 08/13,real,0,0,0
+74,Payment to Chase card ending in 3245 03/18,real,0,0,0
+75,Premises Services #797581,synthetic,0,0,0
+76,Unit charge [ID:191816],synthetic,0,0,0
+77,VANGUARD BUY     INVESTMENT 025613314124747 WEB ID: VMC PUR,real,0,0,0
+78,Bi-weekly housing [Trans:612580],synthetic,0,0,1
+79,Recurring 1st week [ID:768126],synthetic,1,0,1
+80,Payment to Chase card ending in 3245 08/12,real,0,0,0
+81,Place remittance [Trans:553604],synthetic,0,1,0
+82,WF Credit Card AUTO PAY 250902 OOOOO OOOOO,real,0,0,0
+83,FANNIE MAE DIRECT DEP 240920 678079323062P22 OOOOO,real,0,0,0
+84,Building payment [TXN:231829],synthetic,0,0,0
+85,Payment to Chase card ending in 3245 06/05,real,0,0,0
+86,Condo fee #849433,synthetic,1,1,1
+87,Lease fee for residential unit [ID:495993],synthetic,1,1,1
+88,Payment ref: HOUSING- [Invoice:623862],synthetic,1,1,0
+89,Lease charge [TXN:522857],synthetic,0,0,0
+90,Digs payment [ID:934130],synthetic,1,0,0
+91,Mid-month transfer [Trans:451947],synthetic,0,1,0
+92,Debit to Anderson [Ref:4V5D] [11:23],synthetic,1,0,0
+93,Periodic 30th payment [Invoice:486579],synthetic,0,1,1
+94,Spot payment [Payment:1GZC],synthetic,1,1,1
+95,Rental payment [Date:20250219],synthetic,1,1,0
+96,Online Payment 19532513545 To RCN 01/09,real,0,0,0
+97,Excluding rent - HOA [TXN:271600],synthetic,0,0,0
+98,Facility Solutions [TXN:680361],synthetic,1,0,0
+99,Lodgings remittance [ID:860219],synthetic,1,1,1
+100,Complex fee for residential unit [ID:20240924-99],synthetic,1,1,1
+101,Unit fee for residential unit [ID:804626],synthetic,1,1,1
+102,Apartment 12C fee [Trans:588895] [13:02],synthetic,1,1,1
+103,Rental payment [Payment:GPHH],synthetic,1,1,1
+104,Building Management [Trans:672281],synthetic,1,0,0
+105,Online Payment 23611001146 To RCN 02/04,real,0,0,0
+106,AGRI TREAS 310   FED SAL ,real,0,0,0
+107,Complex Services [TXN:298806],synthetic,0,1,1
+108,PL*TheoharisMana WEB PMTS   TQWZ68          WEB ID: 9000291857,real,1,1,1
+109,Payment to Chase card ending in 3245 03/06,real,0,0,0
+110,Apart from rent - maintenance [Trans:732456],synthetic,0,0,0
+111,Utility fee + tax [Trans:469472],synthetic,0,0,0
+112,Online Payment 25726377325 To POTOMAC ELECTRIC POWER COMPANY 08/04,real,0,0,0
+113,Online Payment 24678727459 To RCN 05/07,real,0,0,0
+114,Rent payment (apartment) [Payment:ZUB3],synthetic,1,1,1
+115,Spot payment [Trans:177872],synthetic,1,1,1
+116,Rent..payment [Payment:OUQZ],synthetic,1,1,1
+117,Rent-pay ment [Date:20250112],synthetic,1,1,1
+118,Rent payment (apartment) [Date:20240522],synthetic,1,1,1
+119,T-MOBILE         PCS SVC    3405892         WEB ID: 0000450304,real,0,0,0
+120,NOT rent - utilities [TXN:178094],synthetic,0,0,0
+121,Bi-weekly housing (Unit 31B) [ID:180541],synthetic,1,1,1
+122,Spot payment #174035,synthetic,0,1,1
+123,Building fee #757953 [05:31],synthetic,0,0,0
+124,Property Services LLC [Trans:807214],synthetic,0,0,0
+125,Residential Services (Unit 42A) [Payment:EYXI],synthetic,1,1,1
+126,FEDERAL NATIONAL PAYROLL 251017 732063753454DV3 OOOOO,real,0,0,0
+127,Building payment [TXN:555057],synthetic,0,0,0
+128,VERIZON PAYMENTREC ,real,0,0,0
+129,Rent payment (apartment) [Payment:SUCZ],synthetic,1,1,1
+130,CAMBRIDGE TAX 241009 5932125 OOOOO,real,0,0,0
+131,VANGUARD BUY INVESTMENT 122324 OOOOO OOOOO,real,0,0,0
+132,ECK AMEX EPAYMENT 0005000008  BR ACH PMT,real,0,0,0
+133,Rent payment (apartment) [ID:20240208-767],synthetic,1,1,1
+134,Monthly on 15th [Invoice:638301],synthetic,1,0,0
+135,Condo fee [Date:20241216],synthetic,0,1,1
+136,Distinct from rent - service [TXN:554042],synthetic,0,0,0
+137,Unit payment for residential unit [ID:20240103-150],synthetic,1,1,1
+138,DIR FANNIE MAE 9111111101  BR DIRECT DEP,real,0,0,0
+139,WF Credit Card AUTO PAY 251102 OOOOO OOOOO,real,0,0,0
+140,Unit letting [TXN:429864],synthetic,0,1,1
+141,ZELLE FROM OOOOO ON 09/16 REF # COFALA7W9JGN,real,0,0,0
+142,Building disbursement for residential unit [ID:20240712-410],synthetic,1,1,1
+143,Rental payment [ID:20241014-442] [23:27],synthetic,1,1,0
+144,Rent payment  [ID:20240513-686] [22:56],synthetic,1,1,0
+145,WF Credit Card AUTO PAY 241002 OOOOO OOOOO,real,0,0,0
+146,Building disbursement for residential unit [Ref:3AY4],synthetic,1,1,1
+147,Premises Services [TXN:378944],synthetic,0,0,0
+148,Unit charge [Ref:SAIX],synthetic,0,0,0
+149,Unit letting [Ref:APDN],synthetic,1,1,0
+150,RENT: UNIT 304 [ID:865314],synthetic,1,1,0
+151,Online Transfer from SAV ...1457 transaction#: 24823641522,real,0,0,0
+152,Lease charge [ID:20240711-889],synthetic,0,0,0
+153,Online Payment 21932323914 To POTOMAC ELECTRIC POWER COMPANY 09/03,real,0,0,0
+154,Property Services LLC [ID:808351] [17:10],synthetic,0,0,0
+155,Bi-weekly housing [Invoice:114449],synthetic,1,0,0
+156,Distinct from rent - service [Payment:66CE],synthetic,0,0,0
+157,Unit letting [Date:20241027],synthetic,1,1,0
+158,Rent ;payment [Ref:RZUU],synthetic,1,1,1
+159,Payment on 1st of month [Trans:479361],synthetic,0,1,1
+160,Subscripton payment [Invoice:445889],synthetic,0,0,0
+161,Rent payment (primary residence) [Date:20250809] [16:10],synthetic,1,1,1
+162,Excluding rent - HOA [Invoice:749774],synthetic,0,0,0
+163,Building payment [TXN:897003],synthetic,0,0,0
+164,DIR OTAKORP INC 2251800552  BR Gofer Reim,real,0,0,0
+165,Building payment [Ref:377393] [00:24],synthetic,0,0,0
+166,Unit payment including maintenance [Ref:437443],synthetic,1,1,1
+167,Apart from rent - maintenance [Trans:316029],synthetic,0,0,0
+168,Subscription Last day [Ref:366554],synthetic,0,0,0
+169,IRS              USATAXPYMT                 PPD ID: 3387702000,real,0,0,0
+170,Rent payment  [Payment:ATUN],synthetic,1,1,1
+171,Property remittance for residential unit [Payment:V5M1],synthetic,1,1,1
+172,Semi-monthly residence [Invoice:490048],synthetic,0,0,0
+173,Tenancy payment [Trans:511955],synthetic,1,1,1
+174,Additional to rent - fee [Trans:558783],synthetic,0,0,0
+175,VANGUARD BUY INVESTMENT 020325 OOOOO OOOOO,real,0,0,0
+176,Property Services LLC [Trans:127666] [23:30],synthetic,0,0,0
+177,Independent of rent - repair [TXN:537268] [15:52],synthetic,0,0,0
+178,FEDERAL NATIONAL PAYROLL 251212 771079747757DV3 OOOOO,real,0,0,0
+179,Monthly on 15th [TXN:452022],synthetic,1,0,0
+180,Maintenance fee + insurance [Ref:H2V9] [04:18],synthetic,0,0,0
+181,Lease payment [Invoice:587293],synthetic,0,0,0
+182,Rent payment  [Date:20241018],synthetic,1,1,1
+183,FEDERAL NATIONAL DIRECT DEP 250627 514099350661DV3 OOOOO,real,0,0,0
+184,Recurring habitation expenditure [Ref:PH0R],synthetic,1,1,0
+185,Service fee + insurance [ID:20250530-178] [10:47],synthetic,0,0,0
+186,Lease fee [Payment:B2DX],synthetic,0,0,0
+187,Property payment [Ref:17ET],synthetic,0,1,0
+188,Servise payment [Trans:753477],synthetic,0,0,0
+189,Residential Services (Unit 4C) [TXN:985367],synthetic,1,1,1
+190,Rent payment  [Invoice:646273],synthetic,1,1,1
+191,Tenancy payment [Date:20240914],synthetic,1,1,1
+192,FANNIE MAE DIRECT DEP 241101 933134613527P22 OOOOO,real,0,0,0
+193,Complex payment [TXN:885119] [22:00],synthetic,0,0,0
+194,RENT - APT 5B [Invoice:565387],synthetic,1,1,1
+195,PL*TheoharisMana WEB PMTS   8Z57L6          WEB ID: 9000291857,real,1,1,1
+196,Complex fee for residential unit #244654,synthetic,1,1,1
+197,PL*TheoharisMana WEB PMTS   H92GP6          WEB ID: 9000291857,real,1,1,1
+198,Building Management #167875,synthetic,0,0,0
+199,PL*TheoharisMana WEB PMTS   8H25M7          WEB ID: 9000291857,real,1,1,1
+200,Utility fee incl. services #125540,synthetic,0,0,0
+201,CHARGE - MONTHLY [Trans:472665],synthetic,0,0,0
+202,Rent (missed auto) [Date:20240222] [13:35],synthetic,1,1,0
+203,FEE - AUTO [ID:20250821-855],synthetic,0,0,0
+204,FEDERAL NATIONAL DIRECT DEP 250613 931937615998DV3 OOOOO,real,0,0,0
+205,Rent payment (primary residence) #192665,synthetic,1,1,1
+206,Lease fee [ID:990791],synthetic,0,0,0
+207,Place remittance #818943,synthetic,1,1,0
+208,ONLINE TRANSFER REF #IB0TH45PQR TO WELLS FARGO ACTIVE CASH VISA CARD XXXXXXXXXXXX5691 ON 08/10/25,real,0,0,0
+209,Subscription Every 30 days [Invoice:503738],synthetic,0,0,0
+210,Housing Associates #328096,synthetic,0,1,1
+211,Tenancy payment [TXN:828760],synthetic,0,0,0
+212,Rent payment (primary residence) [ID:20250911-147] [18:33],synthetic,1,1,1
+213,Quarterly dwelling [ID:20251110-556],synthetic,0,0,0
+214,Complex fee for residential unit [Ref:240156],synthetic,1,1,1
+215,Debit to Anderson [TXN:955443],synthetic,0,0,0
+216,Online Payment 22563610622 To RCN 11/01,real,0,0,0
+217,Rent payment (primary residence) [Invoice:171911] [11:35],synthetic,1,1,1
+218,TRAVELERS PER INSUR 250813 9564791 OOOOO,real,0,0,0
+219,Complex payment for residential unit [Trans:491660] [17:43],synthetic,1,1,1
+220,Lodgings remittance [Payment:8BKA],synthetic,0,1,1
+221,DEP CITIZE CK WEBXFR 1770527921  BR P2P ZUOYANG LI,real,0,0,0
+222,Residential payment 15th auto [ID:921198],synthetic,1,1,1
+223,Periodic 30th payment [Payment:KTDN],synthetic,0,1,1
+224,Lease charge for residential unit [ID:20250525-556],synthetic,1,1,1
+225,Servise payment [Invoice:279847] [08:25],synthetic,0,0,0
+226,Mid-month transfer [Ref:TVN2],synthetic,0,0,0
+227,Complex fee for residential unit [Invoice:140721],synthetic,1,1,1
+228,FANNIE MAE DIRECT DEP 240809 629069781635P22 OOOOO,real,0,0,0
+229,Remittance to Moore [TXN:846171] [21:43],synthetic,1,0,0
+230,Subscription Semi-monthly [Date:20250521] [09:25],synthetic,0,0,0
+231,FEE - RECURRING [Ref:0000] [05:21],synthetic,0,0,0
+232,Digs payment [ID:20250714-431],synthetic,1,0,0
+233,PL*TheoharisMana WEB PMTS   ZYNF48          WEB ID: 9000291857,real,1,1,1
+234,Complex Services [ID:20251205-677],synthetic,0,1,1
+235,RENT - APT 5B [Ref:G1FJ],synthetic,1,1,1
+236,TRAVELERS PER INSUR 240924 0964539 UNKNOWN *UNKNOWN,real,0,0,0
+237,Pad payment #741314,synthetic,0,1,1
+238,ACH to Johnson LLC [Ref:985774] [23:56],synthetic,0,0,0
+239,Online Payment 20987857215 To RCN 06/04,real,0,0,0
+240,Online Payment 24309160312 To RCN 04/07,real,0,0,0
+241,Online Payment 20372157748 To RCN 04/05,real,0,0,0
+242,Real Estate Solutions [Ref:759115],synthetic,0,0,0
+243,RENT|AUTO #831679,synthetic,1,1,1
+244,DEPOSIT  ID NUMBER 120076,real,0,0,0
+245,Unit letting [ID:953230] [09:25],synthetic,1,1,1
+246,BOARD OF REGENTS Georgia Te 071724 OOOOO,real,0,0,0
+247,Building payment #589571,synthetic,0,0,0
+248,WF Credit Card AUTO PAY 240902 OOOOO OOOOO,real,0,0,0
+249,Property remittance for residential unit [TXN:964552] [06:12],synthetic,1,1,1
+250,Property remittance [ID:20250624-67],synthetic,0,1,0
+251,Independent of rent - repair [Invoice:268819] [14:31],synthetic,0,0,0
+252,Monthly on 15th [TXN:751635],synthetic,1,0,0
+253,Complex Services [ID:20240921-922],synthetic,0,1,0
+254,Quarterly dwelling [TXN:350826],synthetic,0,0,0
+255,Excluding rent - HOA [ID:819183],synthetic,0,0,0
+256,HOA fee + tax [ID:956921],synthetic,0,0,0
+257,ECK DISCOVER 2510020270  BR E PAYMENT,real,0,0,0
+258,Unit fee for residential unit [Invoice:601628],synthetic,1,1,1
+259,Payment to Chase card ending in 3245 04/16,real,0,0,0
+260,Online Payment 23956527849 To RCN 03/06,real,0,0,0
+261,Rent payment  [Ref:627185],synthetic,1,1,1
+262,PL*TheoharisMana WEB PMTS   021KS6          WEB ID: 9000291857,real,1,1,1
+263,SERVICE - MONTHLY #156535,synthetic,0,0,0
+264,Rental payment #857522,synthetic,0,1,0
+265,UTILITY - MONTHLY [Payment:BFW0],synthetic,0,0,0
+266,Check #1234 for monthly #204655,synthetic,0,1,0
+267,Monthly housing and utilities bundle [TXN:895871],synthetic,1,1,1
+268,Property remittance [ID:20240330-497],synthetic,0,1,1
+269,Separate from rent - deposit [Payment:48MQ],synthetic,0,0,0
